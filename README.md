@@ -29,7 +29,7 @@ Buscando minha primeira oportunidade como **Desenvolvedor Web Júnior**, com foc
 
 ## 📫 Contato
 - **E-mail:** rodrigo.aspiradev@gmail.com
-- **LinkedIn:** *(adicione seu link aqui)*
+- **LinkedIn:** * www.linkedin.com/in/rodrigo-fagundes-907939346 *
 
 ---
 
