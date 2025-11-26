@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Fala aí, eu sou o Rodrigo!
 
-<!--
-**RodrigoFagundes93/RodrigoFagundes93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor web em formação, focado nos fundamentos da web e na construção de projetos práticos.  
+Atualmente estudando **Node.js**, **React.js** e **TypeScript**, enquanto aprimoro meu HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Tecnologias que uso
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+## 📘 Estudando no momento
+- **Node.js**
+- **React.js**
+- **TypeScript**
+
+---
+
+## 🎓 Formação
+- **Cursando Análise e Desenvolvimento de Sistemas (ADS)**
+
+---
+
+## 🎯 Objetivo
+Buscando minha primeira oportunidade como **Desenvolvedor Web Júnior**, com foco em front-end e, futuramente, fullstack.
+
+---
+
+## 📫 Contato
+- **E-mail:** rodrigo.aspiradev@gmail.com
+- **LinkedIn:** *(adicione seu link aqui)*
+
+---
+
+💡 *Aprendendo hoje, construindo amanhã.*
